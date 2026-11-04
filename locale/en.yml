@@ -1,0 +1,4 @@
+tacraft-sociality-sign-confirm-password:
+  forum:
+    field_placeholder: Confirm Password
+    password_mismatch: The passwords do not match.
